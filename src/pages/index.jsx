@@ -183,9 +183,9 @@ export default function Home() {
                   Iniciar Proyecto <ArrowRight className="w-4 h-4" />
                 </button>
               </Link>
-              <Link href="/projects">
+              <Link href="/planes">
                 <button className="bg-transparent hover:bg-white/10 border border-white/20 transition-colors rounded-full px-8 py-3 text-white font-medium">
-                  Ver Portafolio
+                  Ver Planes
                 </button>
               </Link>
             </motion.div>
@@ -500,9 +500,9 @@ export default function Home() {
                   Iniciar Conversación <ArrowRight className="w-4 h-4" />
                 </button>
               </Link>
-              <Link href="/projects">
+              <Link href="/planes">
                 <button className="bg-transparent hover:bg-white/10 border border-white transition-colors rounded-full px-8 py-3 text-white font-medium">
-                  Explorar Proyectos
+                  Explorar Planes
                 </button>
               </Link>
             </div>
