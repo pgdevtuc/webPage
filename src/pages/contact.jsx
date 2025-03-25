@@ -133,7 +133,7 @@ export default function ContactPage() {
                                     <a href="https://www.instagram.com/pgdevtuc" target="_blank" className="bg-purple-600/20 p-3 rounded-full hover:bg-purple-600/40 transition-colors">
                                         <Instagram className="h-5 w-5 text-white" />
                                     </a>
-                                    <a href="#" target="_blank" className="bg-purple-600/20 p-3 rounded-full hover:bg-purple-600/40 transition-colors">
+                                    <a href="https://www.linkedin.com/company/pg-dev-tuc/about/" target="_blank" className="bg-purple-600/20 p-3 rounded-full hover:bg-purple-600/40 transition-colors">
                                         <Linkedin className="h-5 w-5 text-white" />
                                     </a>
                                 </div>

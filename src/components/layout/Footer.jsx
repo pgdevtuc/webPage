@@ -29,7 +29,7 @@ export default function Footer() {
   const redes = [
     { icon: Facebook, link: "#" },
     { icon: Instagram, link: "https://www.instagram.com/pgdevtuc/" },
-    { icon: Linkedin, link: "#" },
+    { icon: Linkedin, link: "https://www.linkedin.com/company/pg-dev-tuc/about/" },
   ];
 
   return (
